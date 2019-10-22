@@ -1,0 +1,18 @@
+h1 {
+    border-style: solid double;
+    border-radius: 25px;
+    background-color: rgb(231, 210, 218);
+    color: red;
+    text-align: center;
+
+}
+
+ h3 {
+     width: 300px;
+     border: 15px solid green;
+     background-color: palegreen;
+     padding: 20px;
+     margin: 20px;
+     text-align: center;
+     color: blue;
+}
